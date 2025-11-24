@@ -70,7 +70,7 @@ MailTrans - это автоматизированная система обра�
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/<username>/MailTrans.git
+git clone https://github.com/MailTrans-RU/MailTrans.git
 cd MailTrans
 ```
 ### 2. Установка зависимостей
