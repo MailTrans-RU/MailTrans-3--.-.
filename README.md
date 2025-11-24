@@ -79,7 +79,7 @@ MailTrans/
 ```bash
 pip install googletrans==3.1.0a0
 ```
-#№№ или
+### или
 ```bash
 pip install translate==3.6.1
 ```
