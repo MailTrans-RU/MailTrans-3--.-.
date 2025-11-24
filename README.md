@@ -82,7 +82,7 @@ pip install googletrans==3.1.0a0
 pip install translate==3.6.1
 ```
 ### 3. Настройка конфигурации 
-#### В файле Mail.py замените на ваши данные:
+#### В файле Mail.py замените шаблон на ваши данные:
 ```python
 EMAIL_CONFIG = {
     'email_address': 'your_email@example.com',
