@@ -75,6 +75,11 @@ MailTrans/
 
 ## ⚙️ Установка и запуск
 
+### 1. Клонирование репозитория
+```bash
+git clone https://github.com/<username>/MailTrans.git
+cd MailTrans
+```
 ### 2. Установка зависимостей
 ```bash
 pip install googletrans==3.1.0a0
